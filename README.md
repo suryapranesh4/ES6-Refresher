@@ -1,8 +1,3 @@
+# ES6-Refresher
 
-George Brown College - Blockchain Development T175
- 
-BCDV1021 - Frontend || FullStack - 1
-
-Lecture 2 - ES6 Exercises
-
-*Exercise answers are logged in console using console.log*
+ES6 Refresher : Reduce, Map ,Filter and Safe Subtraction
